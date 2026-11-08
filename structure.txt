@@ -1,0 +1,24 @@
+Features
+Add document details
+View all saved documents
+Search documents by title or category
+Filter documents by category
+Update document details
+Delete document records
+Track document issue and expiry dates
+Store records in a JSON file
+
+Project Structure
+Personal_Document_Organizer/
+│
+├── main.py
+├── document_manager.py
+├── storage.py
+├── utils.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── documents.json
